@@ -1,6 +1,8 @@
 # Pascal-s-Triangle-in-Leetcode.
 
 Pascal's Triangle in Leetcode by using C++:
+
+
                                 class Solution {
                                 public:
                                   vector<vector<int>> generate(int numRows) {
